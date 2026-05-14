@@ -1,0 +1,3988 @@
+
+Packet #1
+Time: 2026-05-14 11:47:16.528028
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #2
+Time: 2026-05-14 11:47:17.112005
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #3
+Time: 2026-05-14 11:47:17.122356
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #4
+Time: 2026-05-14 11:47:17.255343
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 55820
+Destination Port: 53
+DNS Query: mobile.events.data.microsoft.com.
+
+
+Packet #5
+Time: 2026-05-14 11:47:17.287656
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 55820
+Destination Port: 53
+DNS Query: mobile.events.data.microsoft.com.
+
+
+Packet #6
+Time: 2026-05-14 11:47:17.300731
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 55820
+DNS Query: mobile.events.data.microsoft.com.
+
+
+Packet #7
+Time: 2026-05-14 11:47:17.304151
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #8
+Time: 2026-05-14 11:47:17.508609
+Source IP: 192.168.1.5
+Destination IP: 148.113.9.156
+Protocol: TCP
+Source Port: 13887
+Destination Port: 443
+
+
+Packet #9
+Time: 2026-05-14 11:47:17.513109
+Source IP: 148.113.9.156
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 13887
+
+
+Packet #10
+Time: 2026-05-14 11:47:17.520865
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #11
+Time: 2026-05-14 11:47:17.524861
+Source IP: 148.113.9.156
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 13887
+
+
+Packet #12
+Time: 2026-05-14 11:47:17.530310
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #13
+Time: 2026-05-14 11:47:17.535160
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #14
+Time: 2026-05-14 11:47:17.538670
+Source IP: 192.168.1.5
+Destination IP: 148.113.9.156
+Protocol: TCP
+Source Port: 13887
+Destination Port: 443
+
+
+Packet #15
+Time: 2026-05-14 11:47:17.759118
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #16
+Time: 2026-05-14 11:47:17.778770
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #17
+Time: 2026-05-14 11:47:18.013795
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #18
+Time: 2026-05-14 11:47:18.016890
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #19
+Time: 2026-05-14 11:47:18.021627
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #20
+Time: 2026-05-14 11:47:18.024961
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #21
+Time: 2026-05-14 11:47:18.030894
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #22
+Time: 2026-05-14 11:47:18.036968
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #23
+Time: 2026-05-14 11:47:18.040978
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #24
+Time: 2026-05-14 11:47:18.046101
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #25
+Time: 2026-05-14 11:47:18.050058
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #26
+Time: 2026-05-14 11:47:18.055013
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #27
+Time: 2026-05-14 11:47:18.059297
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #28
+Time: 2026-05-14 11:47:18.064011
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #29
+Time: 2026-05-14 11:47:18.067634
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #30
+Time: 2026-05-14 11:47:18.071903
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #31
+Time: 2026-05-14 11:47:18.075648
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #32
+Time: 2026-05-14 11:47:18.125532
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #33
+Time: 2026-05-14 11:47:18.130772
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #34
+Time: 2026-05-14 11:47:18.246875
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #35
+Time: 2026-05-14 11:47:18.287478
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #36
+Time: 2026-05-14 11:47:18.292683
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #37
+Time: 2026-05-14 11:47:18.299679
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #38
+Time: 2026-05-14 11:47:18.306057
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #39
+Time: 2026-05-14 11:47:18.331787
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #40
+Time: 2026-05-14 11:47:18.397977
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #41
+Time: 2026-05-14 11:47:18.588051
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #42
+Time: 2026-05-14 11:47:18.739092
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #43
+Time: 2026-05-14 11:47:18.764373
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #44
+Time: 2026-05-14 11:47:18.770364
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #45
+Time: 2026-05-14 11:47:18.773691
+Source IP: 192.168.1.5
+Destination IP: 20.42.65.89
+Protocol: TCP
+Source Port: 7669
+Destination Port: 443
+
+
+Packet #46
+Time: 2026-05-14 11:47:18.976884
+Source IP: 20.42.65.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7669
+
+
+Packet #47
+Time: 2026-05-14 11:47:19.142706
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #48
+Time: 2026-05-14 11:47:19.153363
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #49
+Time: 2026-05-14 11:47:19.176553
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 58210
+Destination Port: 53
+DNS Query: dns.google.
+
+
+Packet #50
+Time: 2026-05-14 11:47:19.182048
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 62058
+Destination Port: 53
+DNS Query: dns.google.
+
+
+Packet #51
+Time: 2026-05-14 11:47:19.197632
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 58210
+DNS Query: dns.google.
+
+
+Packet #52
+Time: 2026-05-14 11:47:19.203184
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 62058
+DNS Query: dns.google.
+
+
+Packet #53
+Time: 2026-05-14 11:47:19.210714
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #54
+Time: 2026-05-14 11:47:19.215296
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #55
+Time: 2026-05-14 11:47:19.220900
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #56
+Time: 2026-05-14 11:47:19.223856
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #57
+Time: 2026-05-14 11:47:19.228524
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #58
+Time: 2026-05-14 11:47:19.232810
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #59
+Time: 2026-05-14 11:47:19.237149
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #60
+Time: 2026-05-14 11:47:19.241398
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #61
+Time: 2026-05-14 11:47:19.246456
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #62
+Time: 2026-05-14 11:47:19.250436
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #63
+Time: 2026-05-14 11:47:19.253626
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #64
+Time: 2026-05-14 11:47:19.258030
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #65
+Time: 2026-05-14 11:47:19.261727
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #66
+Time: 2026-05-14 11:47:19.264752
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #67
+Time: 2026-05-14 11:47:19.270175
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #68
+Time: 2026-05-14 11:47:19.274046
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #69
+Time: 2026-05-14 11:47:19.278125
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #70
+Time: 2026-05-14 11:47:19.281904
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #71
+Time: 2026-05-14 11:47:19.286194
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 50242
+Destination Port: 443
+
+
+Packet #72
+Time: 2026-05-14 11:47:19.290991
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #73
+Time: 2026-05-14 11:47:19.294892
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #74
+Time: 2026-05-14 11:47:19.300565
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50242
+
+
+Packet #75
+Time: 2026-05-14 11:47:19.385593
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #76
+Time: 2026-05-14 11:47:19.390466
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #77
+Time: 2026-05-14 11:47:19.396433
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #78
+Time: 2026-05-14 11:47:19.401646
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #79
+Time: 2026-05-14 11:47:19.410642
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #80
+Time: 2026-05-14 11:47:19.417000
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #81
+Time: 2026-05-14 11:47:19.423021
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #82
+Time: 2026-05-14 11:47:19.431431
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #83
+Time: 2026-05-14 11:47:19.437117
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #84
+Time: 2026-05-14 11:47:19.444598
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #85
+Time: 2026-05-14 11:47:19.450563
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #86
+Time: 2026-05-14 11:47:19.457808
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #87
+Time: 2026-05-14 11:47:19.527871
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #88
+Time: 2026-05-14 11:47:19.532324
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #89
+Time: 2026-05-14 11:47:19.537045
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #90
+Time: 2026-05-14 11:47:19.544706
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #91
+Time: 2026-05-14 11:47:19.585435
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #92
+Time: 2026-05-14 11:47:19.691164
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #93
+Time: 2026-05-14 11:47:19.696831
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #94
+Time: 2026-05-14 11:47:19.702900
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #95
+Time: 2026-05-14 11:47:19.710367
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #96
+Time: 2026-05-14 11:47:19.741643
+Source IP: 192.168.1.5
+Destination IP: 52.85.118.103
+Protocol: UDP
+Source Port: 64332
+Destination Port: 443
+
+
+Packet #97
+Time: 2026-05-14 11:47:19.854003
+Source IP: 52.85.118.103
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 64332
+
+
+Packet #98
+Time: 2026-05-14 11:47:20.156720
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #99
+Time: 2026-05-14 11:47:20.164849
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #100
+Time: 2026-05-14 11:47:21.104584
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #101
+Time: 2026-05-14 11:47:21.129371
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #102
+Time: 2026-05-14 11:47:21.161920
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #103
+Time: 2026-05-14 11:47:21.170135
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #104
+Time: 2026-05-14 11:47:21.178832
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #105
+Time: 2026-05-14 11:47:21.186542
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #106
+Time: 2026-05-14 11:47:21.195617
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #107
+Time: 2026-05-14 11:47:21.205711
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #108
+Time: 2026-05-14 11:47:21.213645
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #109
+Time: 2026-05-14 11:47:21.222346
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #110
+Time: 2026-05-14 11:47:21.230639
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #111
+Time: 2026-05-14 11:47:21.239802
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #112
+Time: 2026-05-14 11:47:21.248872
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #113
+Time: 2026-05-14 11:47:21.258677
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #114
+Time: 2026-05-14 11:47:21.266983
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #115
+Time: 2026-05-14 11:47:21.274554
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #116
+Time: 2026-05-14 11:47:21.283024
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #117
+Time: 2026-05-14 11:47:21.290884
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #118
+Time: 2026-05-14 11:47:21.297909
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #119
+Time: 2026-05-14 11:47:21.305639
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #120
+Time: 2026-05-14 11:47:21.315076
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #121
+Time: 2026-05-14 11:47:21.322242
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #122
+Time: 2026-05-14 11:47:21.330725
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #123
+Time: 2026-05-14 11:47:21.339887
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #124
+Time: 2026-05-14 11:47:21.349122
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #125
+Time: 2026-05-14 11:47:21.355346
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #126
+Time: 2026-05-14 11:47:21.363893
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #127
+Time: 2026-05-14 11:47:21.369596
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #128
+Time: 2026-05-14 11:47:21.382653
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #129
+Time: 2026-05-14 11:47:21.392331
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #130
+Time: 2026-05-14 11:47:21.399971
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #131
+Time: 2026-05-14 11:47:21.408103
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #132
+Time: 2026-05-14 11:47:21.415485
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #133
+Time: 2026-05-14 11:47:21.480779
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #134
+Time: 2026-05-14 11:47:21.526222
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #135
+Time: 2026-05-14 11:47:21.580461
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #136
+Time: 2026-05-14 11:47:21.591437
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #137
+Time: 2026-05-14 11:47:21.608339
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #138
+Time: 2026-05-14 11:47:21.621688
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #139
+Time: 2026-05-14 11:47:22.126901
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #140
+Time: 2026-05-14 11:47:22.137865
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #141
+Time: 2026-05-14 11:47:22.151707
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #142
+Time: 2026-05-14 11:47:22.168764
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #143
+Time: 2026-05-14 11:47:22.185171
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #144
+Time: 2026-05-14 11:47:22.198083
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #145
+Time: 2026-05-14 11:47:22.215688
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #146
+Time: 2026-05-14 11:47:22.221962
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #147
+Time: 2026-05-14 11:47:22.230569
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #148
+Time: 2026-05-14 11:47:22.238736
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #149
+Time: 2026-05-14 11:47:22.251530
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #150
+Time: 2026-05-14 11:47:22.261264
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #151
+Time: 2026-05-14 11:47:22.272737
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #152
+Time: 2026-05-14 11:47:22.279481
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #153
+Time: 2026-05-14 11:47:22.286583
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #154
+Time: 2026-05-14 11:47:22.296508
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #155
+Time: 2026-05-14 11:47:22.305647
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #156
+Time: 2026-05-14 11:47:22.314600
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #157
+Time: 2026-05-14 11:47:22.328230
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #158
+Time: 2026-05-14 11:47:22.338891
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #159
+Time: 2026-05-14 11:47:22.346687
+Source IP: 192.168.1.5
+Destination IP: 142.251.154.119
+Protocol: UDP
+Source Port: 58377
+Destination Port: 443
+
+
+Packet #160
+Time: 2026-05-14 11:47:22.354387
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #161
+Time: 2026-05-14 11:47:22.365489
+Source IP: 142.251.154.119
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 58377
+
+
+Packet #162
+Time: 2026-05-14 11:47:22.412101
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #163
+Time: 2026-05-14 11:47:22.920025
+Source IP: 192.168.1.5
+Destination IP: 142.251.154.119
+Protocol: UDP
+Source Port: 58377
+Destination Port: 443
+
+
+Packet #164
+Time: 2026-05-14 11:47:22.970871
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #165
+Time: 2026-05-14 11:47:22.976545
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #166
+Time: 2026-05-14 11:47:22.982265
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #167
+Time: 2026-05-14 11:47:22.988281
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #168
+Time: 2026-05-14 11:47:22.994948
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #169
+Time: 2026-05-14 11:47:23.003050
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #170
+Time: 2026-05-14 11:47:23.012550
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #171
+Time: 2026-05-14 11:47:23.021460
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #172
+Time: 2026-05-14 11:47:23.028206
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #173
+Time: 2026-05-14 11:47:23.034482
+Source IP: 142.251.154.119
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 58377
+
+
+Packet #174
+Time: 2026-05-14 11:47:23.040137
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #175
+Time: 2026-05-14 11:47:23.043998
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #176
+Time: 2026-05-14 11:47:23.048292
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #177
+Time: 2026-05-14 11:47:23.051022
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #178
+Time: 2026-05-14 11:47:23.054560
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #179
+Time: 2026-05-14 11:47:23.057719
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #180
+Time: 2026-05-14 11:47:23.061584
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #181
+Time: 2026-05-14 11:47:23.064667
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #182
+Time: 2026-05-14 11:47:23.068261
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #183
+Time: 2026-05-14 11:47:23.071104
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #184
+Time: 2026-05-14 11:47:23.074610
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #185
+Time: 2026-05-14 11:47:23.077406
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #186
+Time: 2026-05-14 11:47:23.080069
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #187
+Time: 2026-05-14 11:47:23.083302
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #188
+Time: 2026-05-14 11:47:23.085834
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #189
+Time: 2026-05-14 11:47:23.089198
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #190
+Time: 2026-05-14 11:47:23.091946
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #191
+Time: 2026-05-14 11:47:23.094679
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 60818
+Destination Port: 53
+DNS Query: collector.github.com.
+
+
+Packet #192
+Time: 2026-05-14 11:47:23.098074
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56669
+Destination Port: 53
+DNS Query: collector.github.com.
+
+
+Packet #193
+Time: 2026-05-14 11:47:23.100927
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #194
+Time: 2026-05-14 11:47:23.104211
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #195
+Time: 2026-05-14 11:47:23.107202
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 60818
+DNS Query: collector.github.com.
+
+
+Packet #196
+Time: 2026-05-14 11:47:23.111758
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 56669
+DNS Query: collector.github.com.
+
+
+Packet #197
+Time: 2026-05-14 11:47:23.115669
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #198
+Time: 2026-05-14 11:47:23.120137
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #199
+Time: 2026-05-14 11:47:23.123550
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #200
+Time: 2026-05-14 11:47:23.126803
+Source IP: 8.8.4.4
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 54504
+
+
+Packet #201
+Time: 2026-05-14 11:47:23.130211
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #202
+Time: 2026-05-14 11:47:23.133516
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #203
+Time: 2026-05-14 11:47:23.136597
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #204
+Time: 2026-05-14 11:47:23.139687
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #205
+Time: 2026-05-14 11:47:23.142081
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #206
+Time: 2026-05-14 11:47:23.145142
+Source IP: 192.168.1.5
+Destination IP: 8.8.4.4
+Protocol: UDP
+Source Port: 54504
+Destination Port: 443
+
+
+Packet #207
+Time: 2026-05-14 11:47:23.196295
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #208
+Time: 2026-05-14 11:47:23.201631
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #209
+Time: 2026-05-14 11:47:23.251205
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #210
+Time: 2026-05-14 11:47:23.255390
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #211
+Time: 2026-05-14 11:47:23.260919
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #212
+Time: 2026-05-14 11:47:23.267839
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #213
+Time: 2026-05-14 11:47:23.272786
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #214
+Time: 2026-05-14 11:47:23.278591
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #215
+Time: 2026-05-14 11:47:23.291114
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #216
+Time: 2026-05-14 11:47:23.354227
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #217
+Time: 2026-05-14 11:47:23.357974
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #218
+Time: 2026-05-14 11:47:23.363700
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #219
+Time: 2026-05-14 11:47:23.389324
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #220
+Time: 2026-05-14 11:47:23.450700
+Source IP: 140.82.113.21
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 22136
+
+
+Packet #221
+Time: 2026-05-14 11:47:23.519268
+Source IP: 192.168.1.5
+Destination IP: 140.82.113.21
+Protocol: TCP
+Source Port: 22136
+Destination Port: 443
+
+
+Packet #222
+Time: 2026-05-14 11:47:23.666316
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #223
+Time: 2026-05-14 11:47:24.209160
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #224
+Time: 2026-05-14 11:47:24.217999
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #225
+Time: 2026-05-14 11:47:25.215873
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #226
+Time: 2026-05-14 11:47:25.224234
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #227
+Time: 2026-05-14 11:47:25.435971
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #228
+Time: 2026-05-14 11:47:25.440497
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #229
+Time: 2026-05-14 11:47:25.448029
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #230
+Time: 2026-05-14 11:47:25.797225
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #231
+Time: 2026-05-14 11:47:25.799834
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #232
+Time: 2026-05-14 11:47:25.858146
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #233
+Time: 2026-05-14 11:47:25.907627
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #234
+Time: 2026-05-14 11:47:25.910953
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #235
+Time: 2026-05-14 11:47:25.915733
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #236
+Time: 2026-05-14 11:47:25.920754
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #237
+Time: 2026-05-14 11:47:25.924744
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #238
+Time: 2026-05-14 11:47:25.929082
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #239
+Time: 2026-05-14 11:47:25.933150
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #240
+Time: 2026-05-14 11:47:25.937409
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #241
+Time: 2026-05-14 11:47:25.942512
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #242
+Time: 2026-05-14 11:47:25.946644
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #243
+Time: 2026-05-14 11:47:25.950828
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #244
+Time: 2026-05-14 11:47:25.955898
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #245
+Time: 2026-05-14 11:47:25.960714
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #246
+Time: 2026-05-14 11:47:25.964808
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #247
+Time: 2026-05-14 11:47:25.968372
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #248
+Time: 2026-05-14 11:47:25.972934
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #249
+Time: 2026-05-14 11:47:25.977866
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #250
+Time: 2026-05-14 11:47:25.981854
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #251
+Time: 2026-05-14 11:47:25.987105
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #252
+Time: 2026-05-14 11:47:25.993205
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #253
+Time: 2026-05-14 11:47:25.998685
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #254
+Time: 2026-05-14 11:47:26.001914
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #255
+Time: 2026-05-14 11:47:26.006815
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #256
+Time: 2026-05-14 11:47:26.010031
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #257
+Time: 2026-05-14 11:47:26.014061
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #258
+Time: 2026-05-14 11:47:26.017957
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #259
+Time: 2026-05-14 11:47:26.064952
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #260
+Time: 2026-05-14 11:47:26.069859
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #261
+Time: 2026-05-14 11:47:26.106060
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #262
+Time: 2026-05-14 11:47:26.220518
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #263
+Time: 2026-05-14 11:47:26.230550
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #264
+Time: 2026-05-14 11:47:26.653736
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #265
+Time: 2026-05-14 11:47:26.681312
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #266
+Time: 2026-05-14 11:47:26.721404
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #267
+Time: 2026-05-14 11:47:26.734509
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #268
+Time: 2026-05-14 11:47:26.744316
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #269
+Time: 2026-05-14 11:47:26.754936
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #270
+Time: 2026-05-14 11:47:26.762807
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #271
+Time: 2026-05-14 11:47:26.771127
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #272
+Time: 2026-05-14 11:47:26.779783
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #273
+Time: 2026-05-14 11:47:26.786776
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #274
+Time: 2026-05-14 11:47:26.796650
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #275
+Time: 2026-05-14 11:47:26.803624
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #276
+Time: 2026-05-14 11:47:26.812104
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #277
+Time: 2026-05-14 11:47:26.821961
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #278
+Time: 2026-05-14 11:47:26.829207
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #279
+Time: 2026-05-14 11:47:26.838549
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #280
+Time: 2026-05-14 11:47:26.845544
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #281
+Time: 2026-05-14 11:47:26.853107
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #282
+Time: 2026-05-14 11:47:26.861103
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #283
+Time: 2026-05-14 11:47:26.871283
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #284
+Time: 2026-05-14 11:47:26.879458
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #285
+Time: 2026-05-14 11:47:26.887660
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #286
+Time: 2026-05-14 11:47:26.896419
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #287
+Time: 2026-05-14 11:47:26.903735
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #288
+Time: 2026-05-14 11:47:26.912154
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #289
+Time: 2026-05-14 11:47:26.921085
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #290
+Time: 2026-05-14 11:47:26.928571
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #291
+Time: 2026-05-14 11:47:26.937197
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #292
+Time: 2026-05-14 11:47:26.945629
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #293
+Time: 2026-05-14 11:47:26.954370
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #294
+Time: 2026-05-14 11:47:26.961658
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #295
+Time: 2026-05-14 11:47:26.968757
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #296
+Time: 2026-05-14 11:47:26.977227
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #297
+Time: 2026-05-14 11:47:26.985602
+Source IP: 192.168.1.5
+Destination IP: 104.18.43.204
+Protocol: TCP
+Source Port: 7667
+Destination Port: 443
+
+
+Packet #298
+Time: 2026-05-14 11:47:26.993288
+Source IP: 104.18.43.204
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 7667
+
+
+Packet #299
+Time: 2026-05-14 11:47:27.002487
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #300
+Time: 2026-05-14 11:47:27.010281
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #301
+Time: 2026-05-14 11:47:27.019254
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #302
+Time: 2026-05-14 11:47:27.026650
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #303
+Time: 2026-05-14 11:47:27.034163
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #304
+Time: 2026-05-14 11:47:27.042392
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #305
+Time: 2026-05-14 11:47:27.049138
+Source IP: 104.18.32.47
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 55776
+
+
+Packet #306
+Time: 2026-05-14 11:47:27.058229
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #307
+Time: 2026-05-14 11:47:27.065324
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #308
+Time: 2026-05-14 11:47:27.075872
+Source IP: 192.168.1.5
+Destination IP: 104.18.32.47
+Protocol: UDP
+Source Port: 55776
+Destination Port: 443
+
+
+Packet #309
+Time: 2026-05-14 11:47:27.245929
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #310
+Time: 2026-05-14 11:47:27.256036
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #311
+Time: 2026-05-14 11:47:27.565700
+Source IP: 192.168.1.5
+Destination IP: 148.113.9.156
+Protocol: TCP
+Source Port: 13887
+Destination Port: 443
+
+
+Packet #312
+Time: 2026-05-14 11:47:27.590670
+Source IP: 148.113.9.156
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 13887
+
+
+Packet #313
+Time: 2026-05-14 11:47:28.252586
+ARP Packet Detected
+Source MAC: 44:95:3b:c8:20:60
+Destination MAC: 00:00:00:00:00:00
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.5
+
+
+Packet #314
+Time: 2026-05-14 11:47:28.268711
+ARP Packet Detected
+Source MAC: 14:d4:24:54:e9:83
+Destination MAC: 44:95:3b:c8:20:60
+Source IP: 192.168.1.5
+Destination IP: 192.168.1.1
+
+
+Packet #315
+Time: 2026-05-14 11:47:28.282458
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #316
+Time: 2026-05-14 11:47:28.292633
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #317
+Time: 2026-05-14 11:47:28.594808
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #318
+Time: 2026-05-14 11:47:28.604470
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #319
+Time: 2026-05-14 11:47:28.618520
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #320
+Time: 2026-05-14 11:47:28.633703
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #321
+Time: 2026-05-14 11:47:28.840819
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #322
+Time: 2026-05-14 11:47:28.849912
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #323
+Time: 2026-05-14 11:47:28.857192
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #324
+Time: 2026-05-14 11:47:28.864844
+Source IP: 192.168.1.5
+Destination IP: 104.208.16.89
+Protocol: TCP
+Source Port: 17557
+Destination Port: 443
+
+
+Packet #325
+Time: 2026-05-14 11:47:29.177698
+Source IP: 104.208.16.89
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 17557
+
+
+Packet #326
+Time: 2026-05-14 11:47:29.282805
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #327
+Time: 2026-05-14 11:47:29.291820
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #328
+Time: 2026-05-14 11:47:30.283757
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #329
+Time: 2026-05-14 11:47:30.300954
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #330
+Time: 2026-05-14 11:47:31.300530
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #331
+Time: 2026-05-14 11:47:31.310637
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #332
+Time: 2026-05-14 11:47:31.388755
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #333
+Time: 2026-05-14 11:47:31.419461
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #334
+Time: 2026-05-14 11:47:31.426477
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #335
+Time: 2026-05-14 11:47:31.438676
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #336
+Time: 2026-05-14 11:47:31.452109
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #337
+Time: 2026-05-14 11:47:31.468454
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #338
+Time: 2026-05-14 11:47:31.476095
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #339
+Time: 2026-05-14 11:47:31.677763
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #340
+Time: 2026-05-14 11:47:31.694245
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #341
+Time: 2026-05-14 11:47:31.706190
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #342
+Time: 2026-05-14 11:47:31.719016
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #343
+Time: 2026-05-14 11:47:31.730215
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #344
+Time: 2026-05-14 11:47:31.741727
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56840
+Destination Port: 53
+DNS Query: dns.google.
+
+
+Packet #345
+Time: 2026-05-14 11:47:31.750714
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 54801
+Destination Port: 53
+DNS Query: dns.google.
+
+
+Packet #346
+Time: 2026-05-14 11:47:31.761551
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #347
+Time: 2026-05-14 11:47:31.776925
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 54801
+DNS Query: dns.google.
+
+
+Packet #348
+Time: 2026-05-14 11:47:31.790331
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 53
+Destination Port: 56840
+DNS Query: dns.google.
+
+
+Packet #349
+Time: 2026-05-14 11:47:31.803905
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #350
+Time: 2026-05-14 11:47:31.812690
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #351
+Time: 2026-05-14 11:47:31.823048
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #352
+Time: 2026-05-14 11:47:31.834228
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #353
+Time: 2026-05-14 11:47:31.842620
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #354
+Time: 2026-05-14 11:47:31.852115
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #355
+Time: 2026-05-14 11:47:31.861170
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #356
+Time: 2026-05-14 11:47:31.867730
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #357
+Time: 2026-05-14 11:47:31.873977
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #358
+Time: 2026-05-14 11:47:31.884793
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #359
+Time: 2026-05-14 11:47:31.891921
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #360
+Time: 2026-05-14 11:47:31.901593
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #361
+Time: 2026-05-14 11:47:31.908787
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #362
+Time: 2026-05-14 11:47:31.915059
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #363
+Time: 2026-05-14 11:47:31.923312
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #364
+Time: 2026-05-14 11:47:31.928745
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #365
+Time: 2026-05-14 11:47:31.939890
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #366
+Time: 2026-05-14 11:47:31.946988
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #367
+Time: 2026-05-14 11:47:31.963526
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #368
+Time: 2026-05-14 11:47:31.971177
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 56083
+Destination Port: 443
+
+
+Packet #369
+Time: 2026-05-14 11:47:31.980479
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #370
+Time: 2026-05-14 11:47:31.988569
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #371
+Time: 2026-05-14 11:47:31.998598
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #372
+Time: 2026-05-14 11:47:32.009834
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #373
+Time: 2026-05-14 11:47:32.019134
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #374
+Time: 2026-05-14 11:47:32.027582
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 56083
+
+
+Packet #375
+Time: 2026-05-14 11:47:32.035230
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #376
+Time: 2026-05-14 11:47:32.043264
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #377
+Time: 2026-05-14 11:47:32.053950
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #378
+Time: 2026-05-14 11:47:32.062072
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #379
+Time: 2026-05-14 11:47:32.070144
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #380
+Time: 2026-05-14 11:47:32.079791
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #381
+Time: 2026-05-14 11:47:32.087779
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #382
+Time: 2026-05-14 11:47:32.098951
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #383
+Time: 2026-05-14 11:47:32.106708
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #384
+Time: 2026-05-14 11:47:32.120071
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #385
+Time: 2026-05-14 11:47:32.126636
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #386
+Time: 2026-05-14 11:47:32.135600
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #387
+Time: 2026-05-14 11:47:32.144570
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #388
+Time: 2026-05-14 11:47:32.153954
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #389
+Time: 2026-05-14 11:47:32.162462
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #390
+Time: 2026-05-14 11:47:32.172448
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #391
+Time: 2026-05-14 11:47:32.180132
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #392
+Time: 2026-05-14 11:47:32.189629
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #393
+Time: 2026-05-14 11:47:32.199433
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #394
+Time: 2026-05-14 11:47:32.210021
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #395
+Time: 2026-05-14 11:47:32.218897
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #396
+Time: 2026-05-14 11:47:32.227680
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #397
+Time: 2026-05-14 11:47:32.237185
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #398
+Time: 2026-05-14 11:47:32.245683
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #399
+Time: 2026-05-14 11:47:32.321359
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #400
+Time: 2026-05-14 11:47:32.329544
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #401
+Time: 2026-05-14 11:47:32.344358
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #402
+Time: 2026-05-14 11:47:32.358642
+Source IP: 192.168.1.5
+Destination IP: 192.168.1.1
+Protocol: UDP
+Source Port: 137
+Destination Port: 137
+
+
+Packet #403
+Time: 2026-05-14 11:47:32.369297
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #404
+Time: 2026-05-14 11:47:32.383615
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #405
+Time: 2026-05-14 11:47:32.398508
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #406
+Time: 2026-05-14 11:47:32.407139
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #407
+Time: 2026-05-14 11:47:32.415617
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #408
+Time: 2026-05-14 11:47:32.424343
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #409
+Time: 2026-05-14 11:47:32.437860
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #410
+Time: 2026-05-14 11:47:32.446905
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #411
+Time: 2026-05-14 11:47:32.455456
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #412
+Time: 2026-05-14 11:47:32.465615
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #413
+Time: 2026-05-14 11:47:32.614691
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #414
+Time: 2026-05-14 11:47:32.627813
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #415
+Time: 2026-05-14 11:47:32.638393
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 51044
+Destination Port: 443
+
+
+Packet #416
+Time: 2026-05-14 11:47:32.647934
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #417
+Time: 2026-05-14 11:47:32.657358
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #418
+Time: 2026-05-14 11:47:32.667611
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 51044
+
+
+Packet #419
+Time: 2026-05-14 11:47:32.693196
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #420
+Time: 2026-05-14 11:47:32.878841
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #421
+Time: 2026-05-14 11:47:32.943856
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #422
+Time: 2026-05-14 11:47:32.959464
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #423
+Time: 2026-05-14 11:47:32.990090
+Source IP: 142.250.146.95
+Destination IP: 192.168.1.5
+Protocol: UDP
+Source Port: 443
+Destination Port: 50060
+
+
+Packet #424
+Time: 2026-05-14 11:47:32.999649
+Source IP: 192.168.1.5
+Destination IP: 142.250.146.95
+Protocol: UDP
+Source Port: 50060
+Destination Port: 443
+
+
+Packet #425
+Time: 2026-05-14 11:47:33.336993
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #426
+Time: 2026-05-14 11:47:33.349328
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #427
+Time: 2026-05-14 11:47:33.662983
+Source IP: 192.168.1.5
+Destination IP: 3.111.241.224
+Protocol: TCP
+Source Port: 43639
+Destination Port: 443
+
+
+Packet #428
+Time: 2026-05-14 11:47:33.695301
+Source IP: 3.111.241.224
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 43639
+
+
+Packet #429
+Time: 2026-05-14 11:47:33.843280
+Source IP: 192.168.1.5
+Destination IP: 192.168.1.1
+Protocol: UDP
+Source Port: 137
+Destination Port: 137
+
+
+Packet #430
+Time: 2026-05-14 11:47:33.862386
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #431
+Time: 2026-05-14 11:47:34.363681
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #432
+Time: 2026-05-14 11:47:34.377459
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #433
+Time: 2026-05-14 11:47:34.818310
+Source IP: 3.111.241.224
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 43639
+
+
+Packet #434
+Time: 2026-05-14 11:47:34.849048
+Source IP: 192.168.1.5
+Destination IP: 3.111.241.224
+Protocol: TCP
+Source Port: 43639
+Destination Port: 443
+
+
+Packet #435
+Time: 2026-05-14 11:47:35.128013
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #436
+Time: 2026-05-14 11:47:35.164747
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #437
+Time: 2026-05-14 11:47:35.172974
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #438
+Time: 2026-05-14 11:47:35.358120
+Source IP: 192.168.1.5
+Destination IP: 192.168.1.1
+Protocol: UDP
+Source Port: 137
+Destination Port: 137
+
+
+Packet #439
+Time: 2026-05-14 11:47:35.375820
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #440
+Time: 2026-05-14 11:47:35.386883
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #441
+Time: 2026-05-14 11:47:35.398410
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
+
+Packet #442
+Time: 2026-05-14 11:47:35.669514
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #443
+Time: 2026-05-14 11:47:35.679361
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #444
+Time: 2026-05-14 11:47:35.792913
+Source IP: 192.168.1.5
+Destination IP: 185.199.110.133
+Protocol: TCP
+Source Port: 14911
+Destination Port: 443
+
+
+Packet #445
+Time: 2026-05-14 11:47:35.816656
+Source IP: 185.199.110.133
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 14911
+
+
+Packet #446
+Time: 2026-05-14 11:47:35.842401
+Source IP: 172.64.148.235
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 12025
+
+
+Packet #447
+Time: 2026-05-14 11:47:35.911123
+Source IP: 192.168.1.5
+Destination IP: 172.64.148.235
+Protocol: TCP
+Source Port: 12025
+Destination Port: 443
+
+
+Packet #448
+Time: 2026-05-14 11:47:35.968558
+Source IP: 192.168.1.5
+Destination IP: 104.26.8.241
+Protocol: TCP
+Source Port: 9980
+Destination Port: 443
+
+
+Packet #449
+Time: 2026-05-14 11:47:35.979004
+Source IP: 104.26.8.241
+Destination IP: 192.168.1.5
+Protocol: TCP
+Source Port: 443
+Destination Port: 9980
+
+
+Packet #450
+Time: 2026-05-14 11:47:36.383442
+Source IP: 192.168.1.5
+Destination IP: 8.8.8.8
+Protocol: ICMP
+
+
+Packet #451
+Time: 2026-05-14 11:47:36.391832
+Source IP: 8.8.8.8
+Destination IP: 192.168.1.5
+Protocol: ICMP
+
