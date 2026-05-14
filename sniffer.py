@@ -23,3 +23,32 @@ def process_packet(packet):
     
     log_data = f"\nPacket #{packet_count}\n"
     log_data += f"Time: {datetime.now()}\n"
+    
+#IP packets
+    
+if packet.haslayer(IP):
+    ip_layer = packet[IP]
+    
+    src_ip = ip_layer.src
+    dst_ip = ip_layer.src
+    
+    print(Force.BLUE + f"source ip: {src_ip}")
+    print(Force.BLUE + f"destination ip: {dst_ip}")
+    log_data += f"Source IP: {src_ip}\n"
+    log_data += f"Destination IP: {dst_ip}\n"
+    
+#TCP
+
+if packet.haslayer(TCP):
+    tcp_layer = packet[TCP]
+    
+    print(Force.MAGENTA + "[Protocol] TCP")
+    print(f"Source port: {tcp.layer.sport}")
+    print(f"Destination port: {tcp.layer.dport}")
+    
+    log_data += "Protocol: TCP\n"
+    log_data += f"Source Port: {tcp_layer.sport}\n"
+    log_data += f"Destination Port: {tcp_layer.dport}\n"
+    
+#UDP
+
